@@ -146,10 +146,14 @@ Look at the following code/file and answer the questions below:
 ```
 
  1. How many elements does this xml file have?
+ 8
  2. What is a namespace in this example?
+ http://schemas.android.com/apk/res/android
  3. Name parent and children elements.
+ parent: manifest, application, activity(MainActivity);
+ children: application, activity(InformationActivity), service, intent-filter, action, category
  4. Find and name empty elements (the ones that do not have content).
-
+ service, activity(InformationActivity), action, category
 
  ## One more Exercise
 

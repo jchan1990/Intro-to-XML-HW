@@ -1,0 +1,55 @@
+<movie_collection xmlns:collection="http://movies.com">
+	<movie collection:id="1">
+		<title>Captain America</title>
+		<description>the First Avenger.</description>
+
+		<showtimes>
+			<time>1pm</time>
+			<time>2pm</time>
+			<time>3pm</time>
+		</showtimes>
+
+		<empty_element/>
+		<empty_element/>
+	</movie>
+	<movie collection:id="2">
+		<title>Captain America</title>
+		<description>the Winter Soldier.</description>
+
+		<showtimes>
+			<time>4pm</time>
+			<time>5pm</time>
+			<time>6pm</time>
+		</showtimes>
+
+		<empty_element/>
+		<empty_element/>
+	</movie>
+	<movie collection:id="3">
+		<title>Captain America</title>
+		<description>Civil War.</description>
+
+		<showtimes>
+			<time>7pm</time>
+			<time>8pm</time>
+			<time>9pm</time>
+		</showtimes>
+
+		<empty_element/>
+		<empty_element/>
+	</movie>
+	<movie collection:id="4">
+		<title>The Avengers</title>
+		<description>Avengers Assemble.</description>
+
+		<showtimes>
+			<time>10pm</time>
+			<time>11pm</time>
+			<time>12pm</time>
+		</showtimes>
+
+		<empty_element/>
+		<empty_element/>
+	</movie>
+
+</movie_collection>
